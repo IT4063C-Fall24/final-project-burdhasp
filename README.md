@@ -7,24 +7,37 @@
 
 <!-- Edit the following section with your self assessment and reflection -->
 
+I believe this project was quite the eye opener when it came to handling data of all kinds and various different ways to display them.
+
 ### Self Assessment
 <!-- Replace the (...) with your score -->
 
 | Category          | Score    |
 | ----------------- | -------- |
-| **Setup**         | ... / 10 |
-| **Execution**     | ... / 20 |
-| **Documentation** | ... / 10 |
-| **Presentation**  | ... / 30 |
-| **Total**         | ... / 70 |
+| **Setup**         | 10 / 10 |
+| **Execution**     | 20 / 20 |
+| **Documentation** | 5 / 10 |
+| **Presentation**  | 30 / 30 |
+| **Total**         | 65 / 70 |
 
 ### Reflection
 <!-- Edit the following section with your reflection -->
 
 #### What went well?
+
+All my data and its handling and visualizations came together pretty easily which helped a lot throughout my project.
+
 #### What did not go well?
+
+During Checkpoint 2, my code did not end up pushing got me a lower grade for that checkpoint but apart from everything nothing really went horribly wrong.
+
 #### What did you learn?
+
+Multiple data handling techniques and the importance of setting up datasets.
+
 #### What would you do differently next time?
+
+No specific reason to this but I would like to work with more complex data structures in the future.
 
 ---
 
