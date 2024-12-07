@@ -1,0 +1,98 @@
+provider_id,holding_company,technology_code,technology_code_desc,area_stationary,area_invehicle
+130011,"Adak Eagle Enterprises, LLC",300,3G,99,0
+130018,"Agri-Valley Communications, Inc.",400,4G LTE,6702,3921
+130067,"Arctic Slope Telephone Association Cooperative, Inc.",400,4G LTE,14115,5991
+130077,AT&T Inc.,400,4G LTE,5696378,4987413
+130077,AT&T Inc.,500,5G-NR (35/3 Mbps),1746359,803483
+130077,AT&T Inc.,500,5G-NR (7/1 Mbps),2712469,1121805
+130081,"ATN International, Inc.",300,3G,201405,132292
+130081,"ATN International, Inc.",400,4G LTE,92546,59573
+130349,Copper Valley Telephone Cooperative,400,4G LTE,18841,13472
+130352,"Cordova Telephone Cooperative, Inc.",400,4G LTE,19372,14064
+130366,"NBVDS Investments, LLC",400,4G LTE,12120,4399
+130378,Custer Telephone Cooperative Inc.,400,4G LTE,3604,3238
+130403,"T-Mobile USA, Inc.",400,4G LTE,3631689,984093
+130403,"T-Mobile USA, Inc.",500,5G-NR (7/1 Mbps),2792835,639923
+130403,"T-Mobile USA, Inc.",500,5G-NR (35/3 Mbps),1610298,279050
+130431,"Eagle Telephone Systems, Inc.",400,4G LTE,4257,3322
+130434,"East Kentucky Network, LLC",400,4G LTE,19084,15289
+130490,"Farmers Telephone Cooperative, Inc. (SC)",400,4G LTE,12147,10754
+130534,GCI Holdings LLC,300,3G,126786,80833
+130534,GCI Holdings LLC,400,4G LTE,19189,16318
+130534,GCI Holdings LLC,500,5G-NR (7/1 Mbps),5133,4092
+130534,GCI Holdings LLC,500,5G-NR (35/3 Mbps),4169,2929
+130673,James Valley Cooperative Telephone Company,400,4G LTE,16114,12242
+130673,James Valley Cooperative Telephone Company,500,5G-NR (7/1 Mbps),11858,7817
+130741,Liberty Latin America Ltd.,400,4G LTE,1465,1324
+130741,Liberty Latin America Ltd.,500,5G-NR (35/3 Mbps),587,416
+130741,Liberty Latin America Ltd.,500,5G-NR (7/1 Mbps),10687,9137
+130886,"NE Colorado Cellular, Inc.",300,3G,182512,112948
+130886,"NE Colorado Cellular, Inc.",400,4G LTE,75185,28957
+130890,"Nemont Telephone Cooperative, Inc.",300,3G,38720,32515
+130890,"Nemont Telephone Cooperative, Inc.",400,4G LTE,41469,32306
+130926,North Carolina RSA 3 Cellular Telephone Company,400,4G LTE,4328,2383
+130926,North Carolina RSA 3 Cellular Telephone Company,500,5G-NR (35/3 Mbps),682,397
+130926,North Carolina RSA 3 Cellular Telephone Company,500,5G-NR (7/1 Mbps),1041,631
+130937,"Northeast Communications of Wisconsin, Inc.",400,4G LTE,40215,23113
+130937,"Northeast Communications of Wisconsin, Inc.",500,5G-NR (7/1 Mbps),4824,2942
+130937,"Northeast Communications of Wisconsin, Inc.",500,5G-NR (35/3 Mbps),3662,1938
+130952,Northwest Missouri Cellular,400,4G LTE,6521,5671
+130962,Nucla-Naturita Telephone Company,400,4G LTE,1802,1095
+130999,"NTT DoCoMo, Inc.",300,3G,661,638
+130999,"NTT DoCoMo, Inc.",400,4G LTE,672,653
+130999,"NTT DoCoMo, Inc.",500,5G-NR (7/1 Mbps),321,272
+130999,"NTT DoCoMo, Inc.",500,5G-NR (35/3 Mbps),284,242
+131007,"Panhandle Telephone Cooperative, Inc.",400,4G LTE,13553,13473
+131007,"Panhandle Telephone Cooperative, Inc.",500,5G-NR (7/1 Mbps),532,61
+131038,Pine Belt Communications Co. Inc.,400,4G LTE,11661,11660
+131039,Pine Telephone Company,400,4G LTE,11063,9898
+131136,RSA 1 Limited Partnership,400,4G LTE,7058,5911
+131190,"Horizon Communications, Inc.",400,4G LTE,4699,3925
+131208,"Smith Bagley, Inc.",300,3G,23973,16059
+131208,"Smith Bagley, Inc.",400,4G LTE,15244,8858
+131226,American Broadband Holding Company,300,3G,504,1
+131226,American Broadband Holding Company,400,4G LTE,484,232
+131227,Southern Company,400,4G LTE,126503,57367
+131302,"Telapex, Inc.",400,4G LTE,104012,68272
+131302,"Telapex, Inc.",500,5G-NR (35/3 Mbps),4930,1990
+131302,"Telapex, Inc.",500,5G-NR (7/1 Mbps),20358,11298
+131309,"TeleGuam Holdings, Inc.",300,3G,259,259
+131309,"TeleGuam Holdings, Inc.",400,4G LTE,236,180
+131309,"TeleGuam Holdings, Inc.",500,5G-NR (7/1 Mbps),85,55
+131309,"TeleGuam Holdings, Inc.",500,5G-NR (35/3 Mbps),64,46
+131310,"Telephone & Data Systems, incl. UScellular",400,4G LTE,630248,370502
+131310,"Telephone & Data Systems, incl. UScellular",500,5G-NR (35/3 Mbps),106052,49941
+131310,"Telephone & Data Systems, incl. UScellular",500,5G-NR (7/1 Mbps),482112,304374
+131387,"UBTA-UBET Communications, Inc.",400,4G LTE,14009,11399
+131395,"United Telephone Association, Inc.",400,4G LTE,31941,14356
+131425,Verizon Communications Inc.,400,4G LTE,5461749,2271781
+131425,Verizon Communications Inc.,500,5G-NR (35/3 Mbps),800066,141688
+131425,Verizon Communications Inc.,500,5G-NR (7/1 Mbps),1139792,283601
+170001,"Puerto Rico Telephone Company, Inc.",300,3G,11135,4924
+170001,"Puerto Rico Telephone Company, Inc.",400,4G LTE,11664,9354
+170001,"Puerto Rico Telephone Company, Inc.",500,5G-NR (35/3 Mbps),2318,471
+170001,"Puerto Rico Telephone Company, Inc.",500,5G-NR (7/1 Mbps),8011,2981
+170002,Bristol Bay Cellular Partnership,400,4G LTE,5465,2276
+170012,"American Samoa Telecom, LLC",300,3G,113,104
+170012,"American Samoa Telecom, LLC",400,4G LTE,115,109
+190281,"OTZ Telephone Cooperative, Inc.",400,4G LTE,9467,4447
+220001,Pacific Telecom Inc.,300,3G,384,384
+220001,Pacific Telecom Inc.,400,4G LTE,440,440
+240047,Americell PA3 Limited Partnership,300,3G,1609,860
+240047,Americell PA3 Limited Partnership,400,4G LTE,380,184
+300085,"Tower Bridge Mobile Holdings, LLC",400,4G LTE,134,45
+300188,Standing Rock Sioux Tribe,400,4G LTE,13832,7976
+350009,American Samoa Telecommunications Authority,400,4G LTE,763,528
+350009,American Samoa Telecommunications Authority,500,5G-NR (35/3 Mbps),253,158
+350009,American Samoa Telecommunications Authority,500,5G-NR (7/1 Mbps),337,271
+360064,OptimERA Inc.,400,4G LTE,76,38
+360114,Union Holding Corp.,300,3G,133676,87250
+360114,Union Holding Corp.,400,4G LTE,156391,106685
+380126,Tampnet Inc.,400,4G LTE,17997,17997
+410192,Inland Cellular Telephone Company,300,3G,12325,5131
+410192,Inland Cellular Telephone Company,400,4G LTE,29689,15049
+460631,Nex-Tech Wireless,400,4G LTE,75212,58906
+460631,Nex-Tech Wireless,500,5G-NR (7/1 Mbps),30596,21627
+460632,"VTel Wireless, Inc.",400,4G LTE,6935,3869
+460677,Dish Network Corporation,500,5G-NR (7/1 Mbps),824623,646259
+460677,Dish Network Corporation,500,5G-NR (35/3 Mbps),710111,529293
