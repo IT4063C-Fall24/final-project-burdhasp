@@ -29,7 +29,7 @@ All my data and its handling and visualizations came together pretty easily whic
 
 #### What did not go well?
 
-During Checkpoint 2, my code did not end up pushing got me a lower grade for that checkpoint but apart from everything nothing really went horribly wrong.
+During Checkpoint 2, my code did not end up pushing which got me a lower grade for that checkpoint but apart from everything nothing really went horribly wrong.
 
 #### What did you learn?
 
